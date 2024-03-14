@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/deep-padmani-6a53b1132/" target="_blank">
+  <a href="https://www.linkedin.com/in/akash-kashinath-shelar/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:akashkshelar01@gmail.com" target="_blank">
@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I am a highly qualified and accomplished professional with a track record of success in the product-based software and technology sector. At this time, I am looking to further my expertise by pursuing a Master of Science in Computer Engineering from The University of Texas at Dallas.<br><br>I'm enthusiastic to use my knowledge of cutting-edge technologies, such as machine learning, artificial intelligence, embedded software development, and the Internet of Things, to lead effective research and development activities in the software sector. I am sure that I can significantly contribute to the development and success of any firm by utilizing my technical expertise and capacity to work well with cross-functional teams.</p>
+<p align="left">As a Marketing Data Analyst at The University of Texas at Dallas, I design captivating visuals and videos for social media and print media, monitor and analyze social media metrics, and provide event support. I manage a team of seven people effectively, demonstrating leadership and communication skills.<br><br>I am pursuing a Master's degree in Computer Engineering at UT Dallas, with a focus on data science and machine learning. I have a Bachelor's degree in Electronics Engineering from Shivaji University, India, with a GPA of 3.5/4. I have hands-on experience in Python, C++, SQL, Power BI, Linux, AWS, and GCP, and I have completed data analytics and software development projects in various domains. I have also earned multiple certifications from Coursera and Cadence Design Systems, enhancing my technical and analytical skills. I am actively seeking a full-time position as a Data Analyst starting from February 2024, where I can apply my skills and knowledge to solve real-world problems and create value for the organization. I am passionate about learning new technologies and tools, and I enjoy working in a collaborative and dynamic environment. I am eager to connect with potential employers and explore opportunities. You can reach me at akashkshelar01@gmail.com.</p>
 
 ###
 
